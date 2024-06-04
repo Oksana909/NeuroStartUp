@@ -1,4 +1,3 @@
-ʼʼʼcss
 # NeuroStartUp
 
 ![](./logo.png)
@@ -19,8 +18,9 @@
 * Дизайн-студия имени Слишком Известного Персонажа
 * Ниже пример кода из нашего приложения:
 
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-ʼʼʼ 
+``` 
